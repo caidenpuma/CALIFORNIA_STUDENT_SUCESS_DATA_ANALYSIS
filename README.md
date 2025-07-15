@@ -117,7 +117,7 @@ Interactive Dashboard:
 ---
 ## Setup Instructions
 
-### Prerequisits
+### Prerequisites
 * Google Colab programming enivornment
 * Dependencies: Pandas, seaborn, matplotlib, statsmodels, scipy
 
